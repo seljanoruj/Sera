@@ -1,0 +1,25 @@
+{
+    "nav": {
+        "0":"Home",
+        "1":"About",
+        "2":"Features",
+        "3":"Portfolio",
+        "4":"Testimonials",
+        "5":"Blog",
+        "6":"Team",
+        "7":"Prices",
+        "8":"Contact"
+    },
+    "main":{
+        "0":"WE ALWAYS",
+        "1":"CREATE THE IMPOSSIBLE"
+    },
+    "head":{
+        "0":"WELCOME TO SERA"
+    },
+    "btxt":{
+        "0":"DOWNLOAD NOW",
+        "1":"DISCOVER MORE",
+        "2":"BUY NOW"
+    }
+}
